@@ -4,7 +4,25 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
+
+            #region Q1:
+            var top3Products = products
+               .OrderByDescending(p => p.UnitPrice)
+              .Take(3);
+            #endregion
+
+
+
+
+
+
+
+
+
+
+
+
         }
     }
 }
