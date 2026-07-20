@@ -133,7 +133,17 @@
             //    .Where(x => x % 2 == 0);
             #endregion
 
-           
+            #region Q20:
+            //var result = ProductList
+            //    .Select(p => p.ProductName)
+            //    .Take(3)
+            //    .Concat(
+            //        CustomerList
+            //            .Select(c => c.CompanyName)
+            //            .Take(3)
+            //    );
+            #endregion
+
 
 
 
