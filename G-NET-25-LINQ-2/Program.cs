@@ -83,6 +83,12 @@
             //decimal mostExpensivePrice = ProductList.Max(p => p.UnitPrice);
             #endregion
 
+            #region Q12:
+            //var categories = ProductList
+            //    .Select(p => p.Category)
+            //    .Distinct();
+            #endregion
+
 
 
 
