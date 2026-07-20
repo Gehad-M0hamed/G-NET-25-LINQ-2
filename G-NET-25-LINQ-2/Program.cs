@@ -119,6 +119,15 @@
             //var product = ProductList.FirstOrDefault(p => p.UnitPrice > 500);
             #endregion
 
+            #region Q18:
+            //var table = Enumerable.Range(1, 10)
+            //    .Select(x => new
+            //    {
+            //        Number = x,
+            //        Result = 7 * x
+            //    });
+            #endregion
+
 
 
 
