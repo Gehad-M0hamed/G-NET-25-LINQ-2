@@ -128,6 +128,14 @@
             //    });
             #endregion
 
+            #region Q19:
+            //var evenNumbers = Enumerable.Range(1, 30)
+            //    .Where(x => x % 2 == 0);
+            #endregion
+
+           
+
+
 
 
 
