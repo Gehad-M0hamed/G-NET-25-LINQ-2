@@ -103,6 +103,15 @@
             //var result = list1.Except(list2, StringComparer.OrdinalIgnoreCase);
             #endregion
 
+            #region Q15:
+            //var productDictionary = ProductList.ToDictionary(p => p.ProductID);
+
+            //Product product = productDictionary[18];
+
+            //Console.WriteLine(product.ProductName);
+            #endregion
+
+
 
 
 
