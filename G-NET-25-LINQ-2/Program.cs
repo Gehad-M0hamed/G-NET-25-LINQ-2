@@ -7,15 +7,20 @@
 
 
             #region Q1:
-            var top3Products = products
-               .OrderByDescending(p => p.UnitPrice)
-              .Take(3);
+            //var top3Products = products
+            //   .OrderByDescending(p => p.UnitPrice)
+            //  .Take(3);
             #endregion
 
             #region Q2:
-            var page2Products = products
-               .Skip(5)
-               .Take(5);
+            //var page2Products = products
+            //   .Skip(5)
+            //   .Take(5);
+            #endregion
+
+            #region Q3:
+            //var products = ProductList
+            //   .TakeWhile(p => p.UnitPrice < 25);
             #endregion
 
 
