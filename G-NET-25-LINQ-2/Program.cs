@@ -12,6 +12,11 @@
               .Take(3);
             #endregion
 
+            #region Q2:
+            var page2Products = products
+               .Skip(5)
+               .Take(5);
+            #endregion
 
 
 
