@@ -35,6 +35,16 @@
             //bool containsNine = ids.Contains(9);
             #endregion
 
+            #region Q6:
+            //var groups = ProductList
+            //   .GroupBy(p => p.Category);
+
+            //foreach (var group in groups)
+            //{
+            //    Console.WriteLine($"{group.Key} : {group.Count()}");
+            //}
+            #endregion
+
 
 
 
