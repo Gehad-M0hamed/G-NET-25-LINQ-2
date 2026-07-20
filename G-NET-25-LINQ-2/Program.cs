@@ -111,6 +111,13 @@
             //Console.WriteLine(product.ProductName);
             #endregion
 
+            #region Q16:
+            //var product = ProductList.First(p => p.UnitPrice > 50);
+            #endregion
+
+           
+
+
 
 
 
