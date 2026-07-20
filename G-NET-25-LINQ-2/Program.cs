@@ -45,6 +45,16 @@
             //}
             #endregion
 
+            #region Q7:
+            //var result = ProductList
+            //   .GroupBy(p => p.Category)
+            //   .Select(g => new
+            //   {
+            //      Category = g.Key,
+            //      ProductNames = g.Select(p => p.ProductName)
+            //   });
+            #endregion
+
 
 
 
