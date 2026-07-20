@@ -55,6 +55,13 @@
             //   });
             #endregion
 
+            #region Q8:
+            //var result = ProductList
+            //   .GroupBy(p => p.Category)
+            //   .Where(g => g.Count() > 3)
+            //   .Select(g => g.Key);
+            #endregion
+
 
 
 
