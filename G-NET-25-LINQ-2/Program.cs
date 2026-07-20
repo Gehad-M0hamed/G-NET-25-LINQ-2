@@ -78,6 +78,13 @@
             //var totalUnitsInStock = ProductList.Sum(p => p.UnitsInStock);
             #endregion
 
+            #region Q11:
+            //decimal cheapestPrice = ProductList.Min(p => p.UnitPrice);
+            //decimal mostExpensivePrice = ProductList.Max(p => p.UnitPrice);
+            #endregion
+
+
+
 
 
 
